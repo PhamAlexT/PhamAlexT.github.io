@@ -1,0 +1,15 @@
+baseURL: https://phamalext.github.io
+title: Alexandre PHAM
+paginate: 5
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+languages:
+    en:
+        weight: 1
+    fr:
+        weight: 2

@@ -1,0 +1,10 @@
+contentDir: content/french
+
+homeInfoParams:
+    Content: >
+            Je m'appelle Alexandre Pham, je suis dans le Master 2 Internet of Things (IoT) à l'Université Paris-Saclay. Je suis interessé par les domaines des Réseaux, IoT et Machine Learning/Intelligence Artificielle.
+menu:
+    main:
+    - identifier: about
+      name: A propos
+      url: "/a-propos/"
